@@ -1,0 +1,45 @@
+.header_div
+{
+    color: rgb(228, 228, 16);
+    font-family: Helvectica;
+    background-color: rgb(7, 236, 114);
+    font-size: 30px;
+}
+
+#start
+{
+margin-top: 30px;
+font: bolder;
+width: 100px;
+}
+
+#result_label
+{
+    color: rgb(43, 18, 234);
+}
+
+#result_confidence
+{
+    color: rgb(185, 172, 30);
+}
+
+#main_div
+{
+    background: url(https://i.gifer.com/44zG.gif);
+}
+.copy_right_footer
+{
+    background: url(https://heritageroyalrajasthan.com/wp-content/uploads/2018/12/footer-background.jpg);
+    text-align: center;
+    color: rgb(0, 193, 247);
+    text-shadow: 5px 5px 5px rgb(0, 193, 247);
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+   position: fixed;
+}
+
+img
+{
+    margin-top: -37px;
+}
